@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1573560068 source:c:\users\ekinoks\desktop\ee441\hw1\src\process.cpp
+	"process.h"
+
+1573556582 c:\users\ekinoks\desktop\ee441\hw1\include\process.h
+
+1573548283 source:c:\users\ekinoks\desktop\ee441\hw1\src\stack.cpp
+	"stack.h"
+	"process.h"
+
+1573548245 c:\users\ekinoks\desktop\ee441\hw1\include\stack.h
+	"process.h"
+
+1573562256 source:c:\users\ekinoks\desktop\ee441\hw1\src\queue.cpp
+	"queue.h"
+	"process.h"
+
+1573547804 c:\users\ekinoks\desktop\ee441\hw1\include\queue.h
+	"process.h"
+
+1573561275 source:c:\users\ekinoks\desktop\ee441\hw1\main.cpp
+	<iostream>
+	<fstream>
+	"process.h"
+	"queue.h"
+	"stack.h"
+
+1573560070 source:c:\users\mert\desktop\hw1\src\process.cpp
+	"process.h"
+
+1573556584 c:\users\mert\desktop\hw1\include\process.h
+
+1573562258 source:c:\users\mert\desktop\hw1\src\queue.cpp
+	"queue.h"
+	"process.h"
+
+1573547806 c:\users\mert\desktop\hw1\include\queue.h
+	"process.h"
+
+1573670074 source:c:\users\mert\desktop\hw1\src\stack.cpp
+	"stack.h"
+	"process.h"
+
+1573575184 c:\users\mert\desktop\hw1\include\stack.h
+	"process.h"
+
+1573663509 source:c:\users\mert\desktop\hw1\main.cpp
+	<iostream>
+	<fstream>
+	"process.h"
+	"queue.h"
+	"stack.h"
+
